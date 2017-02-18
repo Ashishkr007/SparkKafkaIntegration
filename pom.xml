@@ -77,7 +77,7 @@
                     <!-- MainClass in mainfest make a executable jar -->
                     <archive>
                         <manifest>
-                            <mainClass>com.mycompany.sparkconsumer.SparkKafkaConsumer</mainClass>
+                            <mainClass>com.riveriq.kafkaproducer.KafkaProducer</mainClass>
                         </manifest>
                     </archive>
 
