@@ -1,0 +1,23 @@
+[
+{
+"id": "AK0001",
+"Name": "Ashish",
+"gender": "male",
+"age": 28,
+"address": "580 Veterans "
+},
+{
+"id": "AK0002",
+"Name": "Raj",
+"gender": "male",
+"age": 33,
+"address": "560 Veterans"
+},
+{
+"id": "AK0003",
+"Name": "Arjun",
+"gender": "male",
+"age": 28,
+"address": "570 Veterans"
+}	
+]
